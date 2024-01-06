@@ -1,0 +1,125 @@
+body {
+    background: #000;
+}
+.nav1 {
+    margin-top: 15px;
+}
+.header {
+    margin-bottom: 25px;
+}
+.ul1 {
+    padding-left: 800px;
+    margin-top: 20px;
+}
+.ul1 a {
+    color: #fff;
+    padding-left: 15px;
+    font-size: 19px;
+    font-weight: bold;
+    transition: 0.2s ease-out;
+}
+.ul1 li a:hover {
+    border-bottom: 2px solid #fff;
+    color: #fff;
+}
+.ul1 li {
+    padding-left: 60px;
+    color: #fff;
+}
+.garchig1 {
+    margin-top: 45px;
+    text-align: center;
+    color: #fff;
+    margin-top: 45px;
+}
+.garchig1 h2 {
+    font-size: 44px;
+    color: #fff;
+}
+.zuraas1 {
+    border: 2px solid #f28c28;
+    width: 100px;
+    margin: 0 auto;
+}
+.pic1 {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    height: 400px;
+    background-image: url(
+        https://i.pinimg.com/564x/dd/3a/53/dd3a5337244ba4c42d7b3008a6dffc84.jpg
+    );
+    background-attachment: fixed;
+}
+.pic1 h3 {
+    color: #fff;
+    font-size: 34px;
+    padding-top: 15px;
+}
+.seemore1 {
+    margin-left: 1150px;
+    margin-top: 280px;
+}
+.seemore1 a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 25px;
+}
+.pic2 {
+    background-image: url(
+        https://i.pinimg.com/474x/2a/90/86/2a9086b3eabd4cc6bbae6f216dbd4a25.jpg
+    );
+    background-attachment: fixed;
+    object-fit: cover;
+}
+.pic3 {
+    background-image: url(
+        https://i.pinimg.com/564x/95/9e/db/959edb33be614c888034916c45b384bb.jpg
+    );
+    background-attachment: fixed;
+    object-fit: cover;
+}
+.pic4 {
+    background-image: url(
+        https://yt3.googleusercontent.com/fTRrbXnK6EKVQvb4cZTlk6mP169XyJpq4oCDlpknwv3BAMmkaurXfJpHfDiDaWUsIIppJ3gL=s900-c-k-c0x00ffffff-no-rj
+    );
+    background-attachment: fixed;
+    object-fit: cover;
+}
+.pic5 {
+    background-image: url(
+        https://yt3.googleusercontent.com/dXUEgvUgGpUSDqtO6On4pAqR4nWbAqmELDPOvALJsThJu40979JvBkrmZM3oW9aN2JYwj4fH=s900-c-k-c0x00ffffff-no-rj
+    );
+    background-attachment: fixed;
+    object-fit: cover;
+}
+.pic6 {
+    background-image: url(
+        https://yt3.googleusercontent.com/Zd8UaGuCygN9xMSGYcwK1SfBUSFM423J3XGolwhZXRcowiiMJk1Q80vCJGE7-lmv9sK12DzgSw=s900-c-k-c0x00ffffff-no-rj
+    );
+    background-attachment: fixed;
+    object-fit: cover;
+}
+.pic7 {
+    background-image: url(
+        https://d15xdsbb8need2.cloudfront.net/images/music/artists/5f4c4c60_39401d_1.jpg
+    );
+    background-attachment: fixed;
+    object-fit: cover;
+}
+.nuur {
+    margin-top: 50px;
+    margin-left: 1100px;
+    width: 200px;
+    height: 100px;
+   
+}
+.butsah {
+    border-bottom: 2px solid #f28c28;
+}
+.butsah a {
+    text-decoration: none;
+    font-size: 23px;
+    color: #fff;
+
+    font-weight: bold;
+}

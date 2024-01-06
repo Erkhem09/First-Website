@@ -1,0 +1,193 @@
+body {
+    background: #000;
+}
+.header {
+    position: absolute;
+    z-index: 3;
+}
+.ul1 {
+    padding-left: 700px;
+    margin-top: 30px;
+}
+.ul1 a {
+    color: #fff;
+    padding-left: 15px;
+    font-size: 17px;
+    font-weight: bold;
+    transition: 0.2s ease-out;
+}
+.ul1 li a:hover {
+    border-bottom: 2px solid #fff;
+    color: #fff;
+}
+.ul1 li {
+    padding-left: 60px;
+    color: #fff;
+}
+.slider {
+
+}
+.slider img {
+    width: 100%;
+    object-fit: cover;
+    height: 750px;
+    position: relative;
+}
+.overlay1 {
+    background: rgba(0,0,0, .5);
+    width: 100%;
+    height: 750px;
+    top: 0;
+    position: absolute;
+    z-index: 1;
+}
+.caption {
+    text-align: center;
+}
+.caption h3 {
+    color: #fff;
+    font-size: 84px;
+    position: absolute;
+    z-index: 3;
+    top: 45%;
+    opacity: 1;
+    left: 28%;
+}
+.introduction {
+    margin-top: 55px;
+    text-align: center;
+    color: #fff;
+}
+.introduction h3 {
+    font-size: 45px;
+}
+.zuraas1 {
+    border-bottom: 3px solid #f28c28;
+    width: 170px;
+    margin: 0 auto;
+}
+.content {
+    margin-top: 45px;
+}
+.text1 {
+    color: #fff;
+    padding-top: 45px;
+}
+.text1 h3 {
+    font-size: 43px;
+}
+.text1 p {
+    font-size: 23px;
+   
+}
+.zurag1 {
+
+}
+.zurag1 img {
+    width: 600px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 7px;
+}
+.ontsloh3 {
+    text-align: center;
+    margin-top: 45px;
+}
+.ontsloh3 h3 {
+    color: #fff;
+    font-size: 34px;
+}
+.zuraas4 {
+    border-bottom: 2px solid #f28c28;
+    margin: 0 auto;
+    width: 250px;
+}
+.ontsloh {
+    margin-top: 85px;
+    padding-left: 200px;
+    
+}
+.ontsloh img {
+    width: 600px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 7px;
+}
+.textamc {
+    padding-left: 100px;
+    text-align: center;
+    color: #fff;
+    padding-top: 85px;
+}
+.seemore1 {
+    margin-bottom: 70px;
+}
+.seemore1 a {
+    text-decoration: none;
+    color: #f28c28;
+    font-size: 20px;
+}
+.ontsloh1 {
+    margin-top: 85px;
+    padding-left: 200px;
+    
+}
+.ontsloh1 img {
+    width: 500px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 7px;
+}
+.textamc1 {
+    padding-left: 70px;
+    text-align: center;
+    color: #fff;
+    padding-top: 85px;
+}
+.ontsloh2 {
+    margin-top: 85px;
+    padding-left: 200px;
+    
+}
+.ontsloh2 img {
+    width: 600px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 7px;
+}
+.butsah {
+    margin-top: 44px;
+    padding-left: 300px;
+    color: #fff;
+    padding-bottom: 75px;
+}
+.butsah i {
+    font-size: 40px;
+    color: #f28c28;
+    float: right;
+    padding-right: 275px;
+
+}
+.zuraas3 {
+    border-bottom: 2px solid #f28c28;
+    width: 180px;
+    margin: 0 auto;
+    margin-right: 480px;
+}
+.tovch {
+   padding-left: 300px;
+}
+.tovch a {
+    text-decoration: none;
+    font-size: 23px;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    padding-top: 15px;
+}
+.butsah1 {
+    border: 2px solid #f28c28;
+    width: 120px;
+    border-radius: 7px;
+    height: 50px;
+}

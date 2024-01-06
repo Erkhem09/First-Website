@@ -1,0 +1,350 @@
+body {
+    background: #000;
+}
+.header {
+    height: 90px;
+    color: #fff;
+    padding-left: 400px;
+    position: absolute;
+    z-index: 3;
+}
+.ul1 a {
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+    transition: all 0.3s ease-out;
+}
+.ul1 li a:hover {
+    border-bottom: 2px solid #fff;
+    color: #fff;
+}
+.ul1 {
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.ul1 li {
+    padding-left: 60px;
+    color: #fff;
+}
+.slider1 {
+    position: relative;
+}
+.slider1 img {
+    width: 100%;
+    object-fit: cover;
+    height: 800px;
+    position: relative;
+}
+.caption {
+    position: absolute;
+    color: #fff;
+    text-align: center; 
+    opacity: 1;
+    z-index: 3;
+    top: 40%;
+    left: 18%;
+}
+.caption h2 {
+    font-size: 80px;
+    padding-bottom: 0px;
+}
+.bichver1 {
+    margin-top: 0%;
+    font-size: 26px;
+}
+.overlay1 {
+    background: rgba(0,0,0, .5);
+    width: 100%;
+    position: absolute;
+    height: 800px;
+    top: 0%;
+    z-index: 1;
+}
+.dotood {
+    margin-top: 45px;
+    text-align: center;
+}
+.dotood h2 {
+    font-size: 44px;
+    color: #fff;
+}
+.zuraas {
+    border: 2px solid #f28c28;
+    width: 250px;
+    margin: 0 auto;
+}
+.content {
+    margin-top: 55px;
+    margin-left: 45px;
+}
+.con1 img {
+    width: 600px;
+}
+.garchig1 {
+    color: #fff;
+}
+.garchig1 h3 {
+    font-size: 31px;
+}
+.bichver1 p {
+    font-size: 23px;
+    padding-left: 25px;
+    color: #fff;
+}
+.seemore1 {
+    font-size: 20px;
+    margin-left: 500px;
+}
+.seemore1 a {
+    text-decoration: none;
+    color: #f28c28;
+}
+.vandebo5 {
+    margin-top: 75px;
+    margin-left: 95px;
+    width: 1200px;
+    overflow: hidden;
+    position: relative;
+}
+.vandebo5 img {
+    width: 1200px;
+    object-fit: cover;
+    border-radius: 5px;
+    transition: all 0.2s ease-out;
+    height: 700px;
+}
+.vandebo5 a:hover img {
+    transform: scale(1.1,1.1);
+}
+.overlay5 {
+    background: rgba(0,0,0, .5);
+    width: 1200px;
+    object-fit: cover;
+    height: 100%;
+    top: 0;
+    position: absolute;
+    transition: all 0.2s ease-out;
+    text-align: center;
+}
+.vandebo5 a:hover .overlay5 {
+    background: rgba(0,0,0, .0)
+}
+.vandebo5 h3 {
+    font-size: 70px;
+    color: #fff;
+    padding-top: 300px;
+    opacity: 0;
+    transition: all 0.2s ease-out;
+}
+.vandebo5 a:hover h3 {
+    opacity: 1;
+}
+.content1 {
+    margin-top: 65px;
+    margin-left: 45px;
+}
+.con3 {
+    color: #fff;
+    margin-top: 35px;
+}
+.garchig2 {
+    font-size: 31px;
+}
+.bichver2 {
+    font-size: 23px;
+}
+
+.seemore2 {
+    font-size: 20px;
+    margin-left: 500px;
+}
+.seemore2 a {
+    text-decoration: none;
+    color: #f28c28;
+}
+.con4 img {
+    width: 600px;
+    border-radius: 5px;
+}
+.gadaad {
+    margin-top: 45px;
+    text-align: center;
+    color: #fff;
+}
+.gadaad h2 {
+    font-size: 44px;
+}
+.content2 {
+    margin-top: 65px;
+    margin-left: 45px;
+}
+.em1 {
+    position: relative;
+    width: 700px;
+    height: 700px;
+    text-align: center;
+    overflow: hidden;
+}
+.em1 img {
+    width: 700px;
+    height: 700px;
+    object-fit: cover;
+    transition: all 0.2s ease-out;
+}
+.em1 a:hover img {
+    transform: scale(1.1,1.1);
+}
+.overlay2 {
+    background: rgba(0,0,0, .5);
+    position: absolute;
+    width: 700px;
+    height: 700px;
+    top: 0;
+    object-fit: cover;
+}
+.em1 a:hover .overlay2 {
+    background: rgba(0,0,0, .1);
+}
+.em1 h2 {
+    font-size: 54px;
+    color :#fff;
+    padding-top: 300px;
+    opacity: 0;
+    transition: all 0.2s ease-out;
+}
+.em1 a:hover h2 {
+    opacity: 1;
+}
+.weeknd1 {
+    width: 600px;
+    height: 340px;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+}
+.weeknd1 img {
+    width: 600px;
+    height: 340px;
+    object-fit: cover;
+    transition: all 0.2s ease-out;
+}
+.weeknd1 a:hover img {
+    transform: scale(1.1,1.1);
+}
+.overlay3 {
+    background: rgba(0,0,0, .5);
+    width: 600px;
+    height: 340px;
+    top: 0%;
+    position: absolute;
+}
+.weeknd1 a:hover .overlay3 {
+    background: rgba(0,0,0, .1);
+}
+.weeknd1 h2 {
+    font-size: 34px;
+    padding-top: 135px;
+    color: #fff;
+    opacity: 0;
+    transition: all 0.2s ease-out;
+}
+.weeknd1 a:hover h2 {
+    opacity: 1;
+}
+.ten1 {
+    color: #fff;
+    margin-top: 15px;
+    width: 600px;
+    height: 340px;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+}
+.ten1 img {
+    width: 600px;
+    height: 340px;
+    object-fit: cover;
+    transition: all 0.2s ease-out;
+}
+.ten1 a:hover img {
+    transform: scale(1.1,1.1);
+}
+.overlay4 {
+    background: rgba(0,0,0, .5);
+    position: absolute;
+    width: 600px;
+    height: 340px;
+    top: 0;
+    object-fit: cover;
+}
+.ten1 a:hover .overlay4 {
+    background:  rgba(0,0,0, .1);
+}
+.ten1 h2 {
+    color: #fff;
+    padding-top: 150px;
+    font-size: 34px;
+    opacity: 0;
+    transition: all 0.2s ease-out;
+}
+.ten1 a:hover h2 {
+    opacity: 1;
+}
+.lastsec {
+    background: #f28c28;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    color: #fff;
+    margin-top: 35px;
+}
+.lastsec p {
+    padding-top: 12px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.sanalhuselt {
+    margin-top: 55px;
+}
+.f1 {
+    text-align: center;
+}
+.f1 h2 {
+    text-align: center;
+    color: #fff;
+    font-size: 44px;
+}
+form {
+    margin-top: 45px;
+}
+.fn1 {
+    width: 400px;
+    margin-top: 15px;
+    background: #fff;
+    border: 3px solid #f28c28;
+    border-radius: 5px;
+    height: 60px;
+}
+.fn2 {
+    width: 400px;
+    height: 100px;
+    margin-top: 15px;
+    padding-bottom: 75px;
+    background: #fff;
+    border: 3px solid #f28c28;
+    color: #fff;
+    border-radius: 7px;
+}
+.fn3 {
+    margin-top: 25px;
+    background: #f28c28;
+    color: #fff;
+    font-size: 26px;
+    width: 150px;
+    border-radius: 7px;
+}
+.zuraas4 {
+    border-bottom: 3px solid #f28c28;
+    margin: 0 auto;
+    width: 150px;
+}
